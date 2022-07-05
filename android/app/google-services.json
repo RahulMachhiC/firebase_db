@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "706601018890",
+    "project_id": "interview-68917",
+    "storage_bucket": "interview-68917.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706601018890:android:9e03f321630001d6c521f3",
+        "android_client_info": {
+          "package_name": "com.example.immence"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706601018890-to0ijipskli6he3oltftqp42q92ja3h2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2cZmd1txB3aMJ7ATZ7tFs-zbozc6_x5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706601018890-to0ijipskli6he3oltftqp42q92ja3h2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
